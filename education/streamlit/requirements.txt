@@ -1,3 +1,10 @@
 streamlit
 firebase-admin
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+streamlit-lottie
 requests
+
